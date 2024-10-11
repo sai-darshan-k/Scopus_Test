@@ -1,0 +1,7 @@
+openpyxl
+pandas
+requests
+time
+logging
+json
+ratelimit
